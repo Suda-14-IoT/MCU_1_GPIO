@@ -9,7 +9,7 @@ kds
 # 运行
 kds 
 ```
-### Instruction
+## Instruction
 
 * KL25_Light_Design_1─────────设计性实验（1）─────────项目
 
